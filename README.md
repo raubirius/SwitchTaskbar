@@ -10,7 +10,7 @@ Finally, the [solution](https://stackoverflow.com/a/31416792/2036423) posted by 
 
 I also adapted it to the Lazarus project solution (inside the [@Trash.7z](https://github.com/raubirius/SwitchTaskbar/blob/main/%40Trash.7z) package&nbsp;– it would still need to be switched from window to console mode), but since C produces a shorter .exe file, I stuck with the original solution. So much for a short story.
 
-**Warning!** Windows Defender marks any .exe file created with the source codes of this project (Pascal or C) as malicious. This is because OS functions are used that are usually reserved for other purposes, but in reality this code is completely harmless.
+**Warning!** Windows Defender marks any .exe file created with the source codes of this project (Pascal or C) as malicious. This is because some OS functions are used that are usually reserved for other purposes, but in reality this code is completely harmless.
 
 ## Slovenský text (Slovak description)… 
 
