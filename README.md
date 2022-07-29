@@ -1,5 +1,7 @@
 # SwitchTaskbar
 
+![Preview](show-hide-taskbar.png)
+
 This is not my project. I only made an icon. | Toto nie je môj projekt. Ja som vyrobil len ikonu.
 
 *Slovenský text je nižšie (for Slovak scroll/look down).* 
